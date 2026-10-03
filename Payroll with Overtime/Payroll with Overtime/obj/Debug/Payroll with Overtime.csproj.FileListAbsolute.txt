@@ -1,0 +1,11 @@
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe.config
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.AssemblyReference.cache
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Form1.resources
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Properties.Resources.resources
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.GenerateResource.cache
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.CoreCompileInputs.cache
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.exe
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.pdb
+D:\java code\firstexampleC#\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.exe.config
