@@ -1,0 +1,11 @@
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csproj.AssemblyReference.cache
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Properties.Resources.resources
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csproj.GenerateResource.cache
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csproj.CoreCompileInputs.cache
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\obj\Debug\Test Score Average.pdb
+D:\java code\firstexampleC#\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe.config

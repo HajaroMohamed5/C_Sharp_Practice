@@ -1,0 +1,11 @@
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\bin\Debug\Range_chacker.exe.config
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\bin\Debug\Range_chacker.exe
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\bin\Debug\Range_chacker.pdb
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\obj\Debug\Range_chacker.csproj.AssemblyReference.cache
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\obj\Debug\Range_chacker.Form1.resources
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\obj\Debug\Range_chacker.Properties.Resources.resources
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\obj\Debug\Range_chacker.csproj.GenerateResource.cache
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\obj\Debug\Range_chacker.csproj.CoreCompileInputs.cache
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\obj\Debug\Range_chacker.exe
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\obj\Debug\Range_chacker.pdb
+D:\java code\firstexampleC#\Range_chacker\Range_chacker\obj\Debug\Range_chacker.exe.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range_chacker", "Range_chacker\Range_chacker.csproj", "{5706EDDA-C4A7-4026-B935-3D3D1905E5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5706EDDA-C4A7-4026-B935-3D3D1905E5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5706EDDA-C4A7-4026-B935-3D3D1905E5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5706EDDA-C4A7-4026-B935-3D3D1905E5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5706EDDA-C4A7-4026-B935-3D3D1905E5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A5F2C1C-4808-411A-8259-FB6D6992DB45}
+	EndGlobalSection
+EndGlobal
