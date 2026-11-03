@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\java code\\firstexampleC#\\Reading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4F00AF-2E55-4819-A418-A98C405F9B00}|Reading\\Reading.csproj|d:\\java code\\firstexamplec#\\reading\\reading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4F00AF-2E55-4819-A418-A98C405F9B00}|Reading\\Reading.csproj|solutionrelative:reading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4F00AF-2E55-4819-A418-A98C405F9B00}|Reading\\Reading.csproj|d:\\java code\\firstexamplec#\\reading\\reading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA4F00AF-2E55-4819-A418-A98C405F9B00}|Reading\\Reading.csproj|solutionrelative:reading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\java code\\firstexampleC#\\Reading\\Reading\\Form1.cs",
+              "RelativeDocumentMoniker": "Reading\\Form1.cs",
+              "ToolTip": "D:\\java code\\firstexampleC#\\Reading\\Reading\\Form1.cs*",
+              "RelativeToolTip": "Reading\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T17:40:49.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\java code\\firstexampleC#\\Reading\\Reading\\Form1.cs",
+              "RelativeDocumentMoniker": "Reading\\Form1.cs",
+              "ToolTip": "D:\\java code\\firstexampleC#\\Reading\\Reading\\Form1.cs [Design]*",
+              "RelativeToolTip": "Reading\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T17:39:06.691Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

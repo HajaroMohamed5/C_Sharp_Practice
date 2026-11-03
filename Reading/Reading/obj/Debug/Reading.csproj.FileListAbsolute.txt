@@ -1,0 +1,10 @@
+D:\java code\firstexampleC#\Reading\Reading\obj\Debug\Reading.csproj.AssemblyReference.cache
+D:\java code\firstexampleC#\Reading\Reading\obj\Debug\Reading.Form1.resources
+D:\java code\firstexampleC#\Reading\Reading\obj\Debug\Reading.Properties.Resources.resources
+D:\java code\firstexampleC#\Reading\Reading\obj\Debug\Reading.csproj.GenerateResource.cache
+D:\java code\firstexampleC#\Reading\Reading\obj\Debug\Reading.csproj.CoreCompileInputs.cache
+D:\java code\firstexampleC#\Reading\Reading\bin\Debug\Reading.exe.config
+D:\java code\firstexampleC#\Reading\Reading\bin\Debug\Reading.exe
+D:\java code\firstexampleC#\Reading\Reading\bin\Debug\Reading.pdb
+D:\java code\firstexampleC#\Reading\Reading\obj\Debug\Reading.exe
+D:\java code\firstexampleC#\Reading\Reading\obj\Debug\Reading.pdb
